@@ -1,3 +1,11 @@
+############################################################################
+# José D. Maldonado
+# josedmaldonado14@gmail.com
+# Codetrotters Challenge 2015 submission
+# 02/15/2016
+############################################################################
+
+
 base = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve', 'Thirteen','Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen']
 tens = ['Ten', 'Twenty', 'Thirty', 'Forty', 'Fifty', 'Sixty', 'Seventy', 'Eighty', 'Ninety']
 hundreds = ['One-Hundred', 'Two-Hundred', 'Three-Hundred', 'Four-Hundred', 'Five-Hundred', 'Six-Hundred', 'Seven-Hundred','Eight-Hundred', 'Nine-Hundred']
