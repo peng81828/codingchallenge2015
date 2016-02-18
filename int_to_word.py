@@ -1,5 +1,5 @@
 ############################################################################
-# José D. Maldonado
+# Jose D. Maldonado
 # josedmaldonado14@gmail.com
 # Codetrotters Challenge 2015 submission
 # 02/15/2016
